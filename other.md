@@ -84,6 +84,3 @@
 * [George H. W. Bush Library](http://bushlibrary.tamu.edu/)
 * [William J. Clinton Library](http://www.clintonlibrary.gov/)
 * [George W. Bush Library](http://www.georgewbushlibrary.smu.edu/)
-
-
-
