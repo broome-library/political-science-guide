@@ -14,7 +14,7 @@
 * [National Security Agency](http://www.nsa.gov/)
 * [Federal: Thomas: Legislative Information on the Internet](http://thomas.loc.gov/)
 * [Library of Congress](http://www.loc.gov/)
-* [US Census Bureau Statistical Abstract](http://www.census.gov/compendia/statab/)
+* [Statistical Abstract of the United States Library \(1878-2012\)](https://www.census.gov/library/publications/time-series/statistical_abstracts.html)
 * [US Census Bureau](http://www.census.gov/)
 * [FDsys GPO's Federal Digital System](http://www.gpo.gov/fdsysinfo/aboutfdsys.htm)
   _\(free access to offcial publications from all branches of Federal Government\)_
