@@ -12,7 +12,7 @@
 
 ### [Center for American Women in Politics](http://www.cawp.rutgers.edu/)
 
-> _"Leading source of scholarly research and current data about American women's political participation". _Provided by Ealeton Institute of Politics at Rutgers.
+> \_"Leading source of scholarly research and current data about American women's political participation". \_Provided by Ealeton Institute of Politics at Rutgers.
 
 ### Country Profile
 
@@ -80,7 +80,10 @@
 * [Richard Nixon Library](http://www.nixonlibrary.gov/index.php)
 * [Gerald R. Ford Library](http://www.fordlibrarymuseum.gov/)
 * [Jimmy Carter Library](http://www.jimmycarterlibrary.gov/)
-* [Ronald Reagan Library](http://www.reagan.utexas.edu/)
+* [Ronald Reagan Library](https://www.reaganfoundation.org/)
 * [George H. W. Bush Library](http://bushlibrary.tamu.edu/)
 * [William J. Clinton Library](http://www.clintonlibrary.gov/)
 * [George W. Bush Library](http://www.georgewbushlibrary.smu.edu/)
+
+
+
