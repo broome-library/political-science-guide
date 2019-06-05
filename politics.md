@@ -20,6 +20,7 @@
 
 ## Conservative Sites
 
+* [American Enterprise Institute](http://www.aei.org/)
 * [Drudge Report](http://drudgereport.com/)
 * [Weekly Standard](http://weeklystandard.com/)
 * [Heritage Foundation](http://www.heritage.org/)
