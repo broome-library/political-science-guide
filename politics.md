@@ -12,6 +12,7 @@
 
 * [Daily Kos](http://dailykos.com/)
 * [Huffington Post](http://www.huffingtonpost.com/)
+* [Jacobin](https://jacobinmag.com/)
 * [LiberalOasis](http://liberaloasis.com/)
 * [MoveOn.Org](http://moveon.org/)
 * [The Nation](http://www.thenation.com/)
@@ -57,3 +58,6 @@
 ### [Judicial Watch](http://www.judicialwatch.org/)
 
 > _"Conservative, non-partisan educational foundation, promotes transparency, accountability and integrity in government, politics and the law. Through its educational endeavors, Judicial Watch advocates high standards of ethics and morality in our nation's public life and seeks to ensure that political and judicial officials do not abuse the powers entrusted to them by the American people."_
+
+
+
