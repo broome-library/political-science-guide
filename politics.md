@@ -1,6 +1,4 @@
-# Politics
-
-## Political Parties
+### Political Parties
 
 * [Democratic Party](http://www.democrats.org/)
 * [Green Party](http://www.gp.org/)
@@ -8,7 +6,7 @@
 * [Reform Party](http://www.reformparty.org/)
 * [Republican Party](http://www.gop.com/)
 
-## Liberal Sites
+### Liberal Sites
 
 * [Daily Kos](http://dailykos.com/)
 * [Huffington Post](http://www.huffingtonpost.com/)
@@ -18,7 +16,7 @@
 * [The Nation](http://www.thenation.com/)
 * [Politico](http://www.politico.com/)
 
-## Conservative Sites
+### Conservative Sites
 
 * [American Enterprise Institute](http://www.aei.org/)
 * [Drudge Report](http://drudgereport.com/)
@@ -28,37 +26,27 @@
 * [Michelle Malkin](http://michellemalkin.com/)
 * [National Review Online](http://nationalreview.com/)
 
-## Political Movement
+### Political Movement
 
-### [Tea Party](http://www.teapartypatriots.org/)
+* [Tea Party](http://www.teapartypatriots.org/)<br/>
+_"Tea Party Patriots is a national grassroots organization that provides logistical, educational, networking and other types of support to over 1000 community based tea party groups around the country. Tea Party Patriots national coordinators understand that we are mere servants to the grassroots groups. We understand that we do not set the course for our member groups, as they have developed their own vision and plan for how to address the local and national challenges that they are facing."_
 
-> _"Tea Party Patriots is a national grassroots organization that provides logistical, educational, networking and other types of support to over 1000 community based tea party groups around the country. Tea Party Patriots national coordinators understand that we are mere servants to the grassroots groups. We understand that we do not set the course for our member groups, as they have developed their own vision and plan for how to address the local and national challenges that they are facing."_
+* [Progressive Democrats of America](http://www.pdamerica.org/)<br/>
+_"Progressive Democrats of America was founded in 2004 to transform the Democratic Party and our country. We seek to build a party and government controlled by citizens, not corporate elites—with policies that serve the broad public interest, not just private interests. As a grassroots PAC operating inside the Democratic Party, and outside in movements for peace and justice.... Our inside/outside strategy is guided by the belief that a lasting majority will require a revitalized Democratic Party built on firm progressive principles"_
 
-### [Progressive Democrats of America](http://www.pdamerica.org/)
+* [American Conservative Union](http://conservative.org/)<br/>
+_"ACU represents the views of Americans who are concerned with economic growth through lower taxes and reduced government spending and the issues of liberty, personal responsibility, traditional values and national security. As America's conservative voice, ACU is the leading entity in providing conservative positions on issues to Congress, Administration Officials, State Governments, the media, political candidates and the public."_
 
-> _"Progressive Democrats of America was founded in 2004 to transform the Democratic Party and our country. We seek to build a party and government controlled by citizens, not corporate elites—with policies that serve the broad public interest, not just private interests. As a grassroots PAC operating inside the Democratic Party, and outside in movements for peace and justice.... Our inside/outside strategy is guided by the belief that a lasting majority will require a revitalized Democratic Party built on firm progressive principles"_
+### Nonpartisan Sites
 
-### [American Conservative Union](http://conservative.org/)
+* [RealClearPolics](http://www.realclearpolitics.com/)<br/>
+_"Independent political web site culls and publishes the best commentary, news, polling data, and links to important resources from all points of the political compass and covering all the important issues of the day"_
 
-> _"ACU represents the views of Americans who are concerned with economic growth through lower taxes and reduced government spending and the issues of liberty, personal responsibility, traditional values and national security. As America's conservative voice, ACU is the leading entity in providing conservative positions on issues to Congress, Administration Officials, State Governments, the media, political candidates and the public."_
+* [FactCheck.org](http://factcheck.org/)<br/>
+Monitors _"the factual accuracy of what is said by Major U.S. political players in the form of TV ads, debates, speeches, interviews, and news releases.... to increae public knowledge and understanding."_
 
-## Nonpartisan Sites
+* [Project Vote Smart](http://votesmart.org/)<br/>
+Offers _"backgrounds and records of thousands of political candidates and elected offices to discover their voting records, campaign contributions, public statements, biographical data \(including their work history\) and evaluations of them generated by over 100 competing special interest groups."_
 
-### [RealClearPolics](http://www.realclearpolitics.com/)
-
-> _"Independent political web site culls and publishes the best commentary, news, polling data, and links to important resources from all points of the political compass and covering all the important issues of the day"_
-
-### [FactCheck.org](http://factcheck.org/)
-
-> Monitors _"the factual accuracy of what is said by Major U.S. political players in the form of TV ads, debates, speeches, interviews, and news releases.... to increae public knowledge and understanding."_
-
-### [Project Vote Smart](http://votesmart.org/)
-
-> Offers _"backgrounds and records of thousands of political candidates and elected offices to discover their voting records, campaign contributions, public statements, biographical data \(including their work history\) and evaluations of them generated by over 100 competing special interest groups."_
-
-### [Judicial Watch](http://www.judicialwatch.org/)
-
-> _"Conservative, non-partisan educational foundation, promotes transparency, accountability and integrity in government, politics and the law. Through its educational endeavors, Judicial Watch advocates high standards of ethics and morality in our nation's public life and seeks to ensure that political and judicial officials do not abuse the powers entrusted to them by the American people."_
-
-
-
+* [Judicial Watch](http://www.judicialwatch.org/)<br/>
+_"Conservative, non-partisan educational foundation, promotes transparency, accountability and integrity in government, politics and the law. Through its educational endeavors, Judicial Watch advocates high standards of ethics and morality in our nation's public life and seeks to ensure that political and judicial officials do not abuse the powers entrusted to them by the American people."_
